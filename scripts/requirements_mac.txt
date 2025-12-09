@@ -1,0 +1,8 @@
+# Requirements for Remote Leader Server on Mac
+# Install: pip install -r requirements_mac.txt
+
+# LeRobot - for connection to SO-101 Leader arm
+lerobot
+
+# ZMQ - for network communication
+pyzmq>=25.0.0
